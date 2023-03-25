@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DDRTree"]
+	path = DDRTree
+	url = https://github.com/cran/DDRTree
+	shallow = true
+	registered = true
